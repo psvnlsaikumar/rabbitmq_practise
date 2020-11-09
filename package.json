@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/psvnlsaikumar/rabbitmq_practise/issues"
   },
-  "homepage": "https://github.com/psvnlsaikumar/rabbitmq_practise#readme"
+  "homepage": "https://github.com/psvnlsaikumar/rabbitmq_practise#readme",
+  "dependencies": {
+    "amqp.node.client": "^1.1.5"
+  }
 }
